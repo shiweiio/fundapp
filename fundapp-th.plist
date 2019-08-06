@@ -11,19 +11,19 @@
                                         <key>kind</key>
                                         <string>software-package</string>
                                         <key>url</key>
-                                        <string>http://download.tianhuajunze.com/fund-th/ios/app/FundApp.ipa</string>
+                                        <string>http://download.tianhuajunze.com/fund/ios/app/FundApp.ipa</string>
                                 </dict>
                                 <dict>
                                         <key>kind</key>
                                         <string>display-image</string>
                                         <key>url</key>
-                                        <string>http://download.tianhuajunze.com/fund-th/ios/static/appstore_zf.png</string>
+                                        <string>http://download.tianhuajunze.com/fund/ios/static/appstore_zf.png</string>
                                 </dict>
                                 <dict>
                                         <key>kind</key>
                                         <string>full-size-image</string>
                                         <key>url</key>
-                                        <string>http://download.tianhuajunze.com/fund-th/ios/static/appstore_zf.png</string>
+                                        <string>http://download.tianhuajunze.com/fund/ios/static/appstore_zf.png</string>
                                 </dict>
                         </array>
                         <key>metadata</key>
@@ -35,7 +35,7 @@
                                 <key>kind</key>
                                 <string>software</string>
                                 <key>title</key>
-                                <string>中孚财富</string>
+                                <string>天华风泽</string>
                         </dict>
                 </dict>
         </array>
